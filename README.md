@@ -9,7 +9,7 @@
 
 [![Release](https://img.shields.io/github/v/release/yeongpin/cursor-free-vip?style=flat-square&logo=github&color=blue)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Stars](https://img.shields.io/github/stars/yeongpin/cursor-free-vip?style=flat-square&logo=github)](https://github.com/yeongpin/cursor-free-vip/stargazers)
+[![星标](https://img.shields.io/github/stars/yeongpin/cursor-free-vip?style=flat-square&logo=github)](https://github.com/yeongpin/cursor-free-vip/stargazers)
 [![Download](https://img.shields.io/github/downloads/yeongpin/cursor-free-vip/total?style=flat-square&logo=github&color=52c41a1)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
 
 </p>
@@ -69,24 +69,24 @@ Always clean your browser's cache and cookies. If possible, use a VPN to create 
 ## 👀 How to use | 如何使用
 
 <details open>
-<summary><b>⭐ Auto Run Script | 腳本自動化運行</b></summary>
+<概要><b>⭐ Auto Run Script | 腳本自動化運行</b></概要>
 
 **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://raw.githubusercontent.com/wcwcwc2004/cursor-free-vip/refs/heads/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
 
 **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/wcwcwc2004/cursor-free-vip/refs/heads/main/scripts/install.ps1 | iex
 ```
 
 </details>
 
 <details>
-<summary><b>⭐ Manual Reset Machine | 手動運行重置機器</b></summary>
+<概要><b>⭐ Manual Reset Machine | 手動運行重置機器</b></概要>
 
 **Linux/macOS**
 
@@ -109,7 +109,7 @@ If you want to stop the script, please press Ctrl+C<br>要停止腳本，請按 
 📝 Config | 文件配置
 `Win / Macos / Linux Path | 路徑 [Documents/.cursor-free-vip/config.ini]`
 <details>
-<summary><b>⭐ Config | 文件配置</b></summary>
+<概要><b>⭐ Config | 文件配置</b></概要>
 
 ```
 [Chrome]
